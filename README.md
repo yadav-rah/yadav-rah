@@ -35,4 +35,5 @@
 <p align="center">
   <img src="https://devhumor.com/content/uploads/images/February2021/frontend_development.jpg" width="512px"/>
 </p>
----
+
+<hr \>
